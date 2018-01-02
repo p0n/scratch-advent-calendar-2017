@@ -1,0 +1,3 @@
+[submodule "scratch-storage01/scratch-storage"]
+	path = scratch-storage01/scratch-storage
+	url = https://github.com/LLK/scratch-storage.git
